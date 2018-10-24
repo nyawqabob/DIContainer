@@ -1,0 +1,4 @@
+2018-10-24 15:19:06.743 [main] INFO  by.iba.di.Scanner - Package of scanning is: by.iba.di
+2018-10-24 15:19:07.087 [main] INFO  by.iba.di.bean.factory.impl.BeanFactoryImpl - Bean with class type class by.iba.di.Main was not found
+2018-10-24 15:19:07.087 [main] INFO  by.iba.di.bean.factory.impl.BeanFactoryImpl - Bean with class type class by.iba.di.entity.Car was not found
+2018-10-24 15:19:07.087 [main] INFO  by.iba.di.bean.factory.impl.BeanFactoryImpl - Bean with class type AFSf was not found
